@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/datsan/static/css/main.40a9cd7c.chunk.css",
-    "main.js": "/datsan/static/js/main.679353eb.chunk.js",
-    "main.js.map": "/datsan/static/js/main.679353eb.chunk.js.map",
+    "main.css": "/datsan/static/css/main.2607f96e.chunk.css",
+    "main.js": "/datsan/static/js/main.e66481cf.chunk.js",
+    "main.js.map": "/datsan/static/js/main.e66481cf.chunk.js.map",
     "runtime-main.js": "/datsan/static/js/runtime-main.59d811b0.js",
     "runtime-main.js.map": "/datsan/static/js/runtime-main.59d811b0.js.map",
-    "static/js/2.77b7fe26.chunk.js": "/datsan/static/js/2.77b7fe26.chunk.js",
-    "static/js/2.77b7fe26.chunk.js.map": "/datsan/static/js/2.77b7fe26.chunk.js.map",
+    "static/js/2.3afe6b1c.chunk.js": "/datsan/static/js/2.3afe6b1c.chunk.js",
+    "static/js/2.3afe6b1c.chunk.js.map": "/datsan/static/js/2.3afe6b1c.chunk.js.map",
     "index.html": "/datsan/index.html",
-    "static/css/main.40a9cd7c.chunk.css.map": "/datsan/static/css/main.40a9cd7c.chunk.css.map",
-    "static/js/2.77b7fe26.chunk.js.LICENSE.txt": "/datsan/static/js/2.77b7fe26.chunk.js.LICENSE.txt"
+    "static/css/main.2607f96e.chunk.css.map": "/datsan/static/css/main.2607f96e.chunk.css.map",
+    "static/js/2.3afe6b1c.chunk.js.LICENSE.txt": "/datsan/static/js/2.3afe6b1c.chunk.js.LICENSE.txt",
+    "static/media/Logo_head.8dc2cf97.png": "/datsan/static/media/Logo_head.8dc2cf97.png"
   },
   "entrypoints": [
     "static/js/runtime-main.59d811b0.js",
-    "static/js/2.77b7fe26.chunk.js",
-    "static/css/main.40a9cd7c.chunk.css",
-    "static/js/main.679353eb.chunk.js"
+    "static/js/2.3afe6b1c.chunk.js",
+    "static/css/main.2607f96e.chunk.css",
+    "static/js/main.e66481cf.chunk.js"
   ]
 }
