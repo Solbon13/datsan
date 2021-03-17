@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "/datsan/static/css/main.2607f96e.chunk.css",
-    "main.js": "/datsan/static/js/main.e66481cf.chunk.js",
-    "main.js.map": "/datsan/static/js/main.e66481cf.chunk.js.map",
+    "main.css": "/datsan/static/css/main.28034e03.chunk.css",
+    "main.js": "/datsan/static/js/main.2065b4af.chunk.js",
+    "main.js.map": "/datsan/static/js/main.2065b4af.chunk.js.map",
     "runtime-main.js": "/datsan/static/js/runtime-main.59d811b0.js",
     "runtime-main.js.map": "/datsan/static/js/runtime-main.59d811b0.js.map",
-    "static/js/2.3afe6b1c.chunk.js": "/datsan/static/js/2.3afe6b1c.chunk.js",
-    "static/js/2.3afe6b1c.chunk.js.map": "/datsan/static/js/2.3afe6b1c.chunk.js.map",
+    "static/css/2.98e7ac70.chunk.css": "/datsan/static/css/2.98e7ac70.chunk.css",
+    "static/js/2.f63ea767.chunk.js": "/datsan/static/js/2.f63ea767.chunk.js",
+    "static/js/2.f63ea767.chunk.js.map": "/datsan/static/js/2.f63ea767.chunk.js.map",
     "index.html": "/datsan/index.html",
-    "static/css/main.2607f96e.chunk.css.map": "/datsan/static/css/main.2607f96e.chunk.css.map",
-    "static/js/2.3afe6b1c.chunk.js.LICENSE.txt": "/datsan/static/js/2.3afe6b1c.chunk.js.LICENSE.txt",
+    "static/css/2.98e7ac70.chunk.css.map": "/datsan/static/css/2.98e7ac70.chunk.css.map",
+    "static/css/main.28034e03.chunk.css.map": "/datsan/static/css/main.28034e03.chunk.css.map",
+    "static/js/2.f63ea767.chunk.js.LICENSE.txt": "/datsan/static/js/2.f63ea767.chunk.js.LICENSE.txt",
     "static/media/Logo_head.8dc2cf97.png": "/datsan/static/media/Logo_head.8dc2cf97.png"
   },
   "entrypoints": [
     "static/js/runtime-main.59d811b0.js",
-    "static/js/2.3afe6b1c.chunk.js",
-    "static/css/main.2607f96e.chunk.css",
-    "static/js/main.e66481cf.chunk.js"
+    "static/css/2.98e7ac70.chunk.css",
+    "static/js/2.f63ea767.chunk.js",
+    "static/css/main.28034e03.chunk.css",
+    "static/js/main.2065b4af.chunk.js"
   ]
 }
